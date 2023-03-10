@@ -37,14 +37,24 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": " Calculadora com ReactJS",
+      "url": "https://github.com/joaogriquena/calculadora_React_JS",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Pokedex API",
+      "url": "https://github.com/joaogriquena/pokedex-API",
       "github": true
+    },
+    {
+      "name": "To Do List",
+      "url": "https://github.com/joaogriquena/To-Do-List",
+      "github": true
+    },
+    {
+      "name": "",
+      "url": "",
+      "certificado": ""
     }
   ],
   "professionalExperience": [
