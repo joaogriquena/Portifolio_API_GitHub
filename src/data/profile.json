@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/imgs/html.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/imgs/css.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/imgs/js.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/imgs/react.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/react.png"
       },
       {
         "name": "Git",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/imgs/git.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/git.png"
       },
       {
         "name": "vsCode",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/assets/img/icons/tools/vscode.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/vscode.png"
       }
     ],
     "softSkills": [
