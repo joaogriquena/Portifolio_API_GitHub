@@ -1,6 +1,6 @@
 {
-  "name": "Joao Guilherme R Ortega",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
+  "name": "Joao Guilherme",
+  "photo": "https://avatars.githubusercontent.com/u/112562688?v=4",
   "job": "Junior Developer",
   "location": "Belo Horizonte - MG",
   "phone": "(62) 99946-2237",
@@ -8,43 +8,31 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
+        "name": "HTML5",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
       },
       {
-        "name": "Java",
+        "name": "CSS3",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
       },
       {
-        "name": "Angular",
+        "name": "JavaScript",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
       },
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português BR"
   ],
   "portfolio": [
     {
