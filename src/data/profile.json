@@ -22,14 +22,6 @@
       {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/react.png"
-      },
-      {
-        "name": "Git",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/git.png"
-      },
-      {
-        "name": "vsCode",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/vscode.png"
       }
     ],
     "softSkills": [
