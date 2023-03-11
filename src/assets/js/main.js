@@ -51,6 +51,7 @@ function updatePortfolio(profileData) {
 function updateExperience(profileData) {
     const experience = document.getElementById('profile.experience')
     experience.innerHTML = profileData.experience.map(experience => {
+        debugger
         return `
             <li>
                 <h3 class="title">
