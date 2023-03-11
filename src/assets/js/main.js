@@ -53,7 +53,7 @@ function updateProfessionalExperience(profileData) {
     professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
         return `
             <li>
-                <h3 class="title">${experience.name}</a></h3>
+                <h3 class="title">${experience.name}</h3>
                 <p class="period">${experience.period}</p>
                 <p>${experience.description}</p>
             </li>
