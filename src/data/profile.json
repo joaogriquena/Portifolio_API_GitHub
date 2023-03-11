@@ -38,23 +38,28 @@
   "portfolio": [
     {
       "name": " Calculadora com ReactJS",
-      "url": "https://github.com/joaogriquena/calculadora_React_JS",
+      "GitHub": "https://github.com/joaogriquena/calculadora_React_JS",
       "github": true
     },
     {
       "name": "Pokedex API",
-      "url": "https://github.com/joaogriquena/pokedex-API",
+      "GitHub": "https://github.com/joaogriquena/pokedex-API",
       "github": true
     },
     {
       "name": "To Do List",
-      "url": "https://github.com/joaogriquena/To-Do-List",
+      "GitHub": "https://github.com/joaogriquena/To-Do-List",
       "github": true
     },
     {
-      "name": "",
-      "url": "",
-      "certificado": ""
+      "name": "Linux do Zero",
+      "url": "https://web.dio.me/track/linux-do-zero",
+      "certificado": "https://www.dio.me/certificate/FB087978"
+    },
+    {
+      "name": "Formação Cybersecurity Specialist",
+      "url": "https://web.dio.me/track/formacao-cybersecurity",
+      "certificado": "https://www.dio.me/certificate/6DF17CF6"
     }
   ],
   "professionalExperience": [
