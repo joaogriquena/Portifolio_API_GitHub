@@ -9,19 +9,19 @@
     "hardSkills": [
       {
         "name": "HTML5",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/html.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/data/img/html.png"
       },
       {
         "name": "CSS3",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/css.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/data/img/css.png"
       },
       {
         "name": "JavaScript",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/js.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/data/img/js.png"
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/src/data/img/react.png"
+        "logo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/data/img/react.png"
       }
     ],
     "softSkills": [
