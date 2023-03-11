@@ -52,14 +52,12 @@
       "github": true
     },
     {
-      "name": "Linux do Zero",
-      "url": "https://web.dio.me/track/linux-do-zero",
-      "github": "https://www.dio.me/certificate/FB087978"
+      "name": "Formação Linux do Zero",
+      "url": "https://www.dio.me/certificate/FB087978"
     },
     {
       "name": "Formação Cybersecurity Specialist",
-      "url": "https://web.dio.me/track/formacao-cybersecurity",
-      "github": "https://www.dio.me/certificate/6DF17CF6"
+      "link": "https://www.dio.me/certificate/6DF17CF6"
     }
   ],
   "professionalExperience": [
