@@ -4,7 +4,7 @@
   "photo": "https://raw.githubusercontent.com/joaogriquena/Portifolio_API_GitHub/master/assets/img/perfil.jpg",
   "job": "Junior Developer",
   "location": "Belo Horizonte - MG",
-  "phone": "(62) 99946-2237",
+  "phone": "(45) 99136-9769",
   "email": "jgriquena@gmail.com",
   "skills": {
     "hardSkills": [
@@ -50,6 +50,11 @@
     {
       "name": "To Do List",
       "url": "https://github.com/joaogriquena/To-Do-List",
+      "github": true
+    },
+    {
+      "name": "Corrida Mario Kart",
+      "url": "https://github.com/joaogriquena/corrida-mario-kart",
       "github": true
     },
     {
