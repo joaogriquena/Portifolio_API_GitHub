@@ -38,11 +38,6 @@
   ],
   "portfolio": [
     {
-      "name": " Calculadora com ReactJS",
-      "url": "https://github.com/joaogriquena/calculadora_React_JS",
-      "github": true
-    },
-    {
       "name": "Pokedex API",
       "url": "https://github.com/joaogriquena/pokedex-API",
       "github": true
@@ -72,9 +67,14 @@
   ],
   "professionalExperience": [
     {
+      "name": "Almoxarife / Contersolo Contrutora de Obras ltda",
+      "period": "2023 - o momento",
+      "description": "Responsável pela gestão e organização dos funcionarios e materiais, controle de estoque e negociando com fornecedores e garantindo que todos os processos relacionados ao armazenamento sejam realizados de maneira eficiente e econômica."
+    },
+    {
       "name": "Editor de vídeo / Agência Digital Help",
       "period": "2020 - 2021",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Criação de materiais de vídeo para campanhas publicitárias e colaboração com a equipe para criar layouts e conceitos visuais."
     }
   ]
 }
